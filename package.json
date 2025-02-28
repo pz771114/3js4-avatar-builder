@@ -11,12 +11,17 @@
   "dependencies": {
     "@react-three/drei": "^9.121.3",
     "@react-three/fiber": "^8.17.12",
+    "@supabase/supabase-js": "^2.48.1",
     "@tailwindcss/vite": "^4.0.0",
+    "@tanstack/react-query": "^5.66.3",
     "@types/three": "^0.172.0",
+    "pocketbase": "^0.25.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-query": "^3.39.3",
     "tailwindcss": "^4.0.0",
-    "three": "^0.172.0"
+    "three": "^0.172.0",
+    "zustand": "^5.0.3"
   },
   "devDependencies": {
     "@types/react": "^18.3.18",
